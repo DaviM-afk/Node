@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/professorjosedeassis/node.git"
+    "url": "git+https://github.com/DaviM-afk/Node.git"
   },
   "keywords": [
     "node",
@@ -20,9 +20,9 @@
   "author": "Prof José Assis",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/professorjosedeassis/node/issues"
+    "url": "https://github.com/DaviM-afk/Node.git/issues"
   },
-  "homepage": "https://github.com/professorjosedeassis/node#readme",
+  "homepage": "https://github.com/DaviM-afk/Node.git",
   "dependencies": {
     "colors": "^1.4.0"
   },

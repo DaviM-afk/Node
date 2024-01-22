@@ -1,0 +1,32 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "Node.js - curso de javascript",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "test2": "cls && echo 'Hello Script'",
+    "dev": "nodemon fundamentoshello.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/professorjosedeassis/node.git"
+  },
+  "keywords": [
+    "node",
+    "nodejs",
+    "javascript"
+  ],
+  "author": "Prof José Assis",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/professorjosedeassis/node/issues"
+  },
+  "homepage": "https://github.com/professorjosedeassis/node#readme",
+  "dependencies": {
+    "colors": "^1.4.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.3"
+  }
+}
